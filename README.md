@@ -122,6 +122,7 @@
 - \[[arxiv](https://arxiv.org/abs/2501.14050)\] GraphRAG under Fire. `2025.01`
 - \[[arxiv](https://arxiv.org/abs/2501.00879)\] TrustRAG: Enhancing Robustness and Trustworthiness in RAG. `2025.01`
 - \[[arxiv](https://arxiv.org/abs/2501.11759)\] Poison-RAG: Adversarial Data Poisoning Attacks on Retrieval-Augmented Generation in Recommender Systems. `2025.01`
+- \[[arxiv](https://arxiv.org/abs/2501.18280)\] Jailbreaking LLMs' Safeguard with Universal Magic Words for Text Embedding Models. `2025.01`
 - \[[arxiv](https://arxiv.org/abs/2411.18948)\] RevPRAG: Revealing Poisoning Attacks in Retrieval-Augmented Generation through LLM Activation Analysis. `2024.11`
 - \[[ACL](https://aclanthology.org/2024.emnlp-main.610/)\] ATM: Adversarial Tuning Multi-agent System Makes a Robust Retrieval-Augmented Generator. `2024.11`
 - \[[EMNLP](https://arxiv.org/abs/2404.13948)] Typos that Broke the RAG's Back: Genetic Attack on RAG Pipeline by Simulating Documents in the Wild via Low-level Perturbations. `2024.10`
