@@ -83,6 +83,7 @@
 - \[[arxiv](https://arxiv.org/abs/2402.16893)\] The Good and The Bad: Exploring Privacy Issues in Retrieval-Augmented Generation (RAG). `2024.02`
 
 ### Reliability
+- \[[ACL Findings](https://arxiv.org/abs/2512.19134)\]\[[Github](https://github.com/ZhishanQ/QuCo-RAG)\] QuCo-RAG: Quantifying Uncertainty from the Pre-training Corpus for Dynamic Retrieval-Augmented Generation. `2025.12`
 - \[[AAAI](https://arxiv.org/abs/2410.08985v2)\] Towards Trustworthy Knowledge Graph Reasoning: An Uncertainty Aware Perspective. `2024.10`
 - \[[arxiv](https://arxiv.org/abs/2408.08248)] Conformalized Answer Set Prediction for Knowledge Graph Embedding. `2024.08`
 - \[[ICLR](https://arxiv.org/abs/2306.10193)\] Conformal Language Modeling. `2024.06`
